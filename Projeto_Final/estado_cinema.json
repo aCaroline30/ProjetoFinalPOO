@@ -1,0 +1,26 @@
+{
+  "filmes": [
+    {
+      "id": "7f8f4d8b-9256-4b99-b58b-e48892077c0f",
+      "titulo": "Transformers",
+      "genero": "Ação",
+      "duracao": 100,
+      "classificacaoEtaria": 16,
+      "sinopse": "",
+      "urlTrailer": ""
+    }
+  ],
+  "salas": [],
+  "clientes": [
+    {
+      "id": "da817e7e-966b-4edc-a122-e4199f5a8f39",
+      "nome": "Ana",
+      "email": "anacarolinefachini@gamil.com",
+      "dataNascimento": "2006-05-29",
+      "preferenciaGeneros": [],
+      "historicoFilmesAssistidosIds": []
+    }
+  ],
+  "sessoes": [],
+  "ingressos": []
+}
