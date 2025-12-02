@@ -1,0 +1,79 @@
+{
+  "filmes": [
+    {
+      "id": "FIL-636897a7",
+      "titulo": "O Senhor dos Anéis",
+      "genero": "Fantasia, Aventura",
+      "duracao": 178,
+      "classificacaoEtaria": 12,
+      "sinopse": "",
+      "urlTrailer": ""
+    },
+    {
+      "id": "FIL-6c7f7553",
+      "titulo": "Batman: O Cavaleiro das Trevas",
+      "genero": "Ação",
+      "duracao": 152,
+      "classificacaoEtaria": 14,
+      "sinopse": "",
+      "urlTrailer": ""
+    },
+    {
+      "id": "FIL-3704ad04",
+      "titulo": "A Freira 2",
+      "genero": "Terror",
+      "duracao": 110,
+      "classificacaoEtaria": 16,
+      "sinopse": "",
+      "urlTrailer": ""
+    },
+    {
+      "id": "FIL-6179fa9d",
+      "titulo": "Avatar 2",
+      "genero": "Aventura",
+      "duracao": 192,
+      "classificacaoEtaria": 12,
+      "sinopse": "",
+      "urlTrailer": ""
+    },
+    {
+      "id": "FIL-5eef5943",
+      "titulo": "Super Mario Bros",
+      "genero": "Animação",
+      "duracao": 90,
+      "classificacaoEtaria": 0,
+      "sinopse": "",
+      "urlTrailer": ""
+    },
+    {
+      "id": "FIL-f127f609",
+      "titulo": "Barbie",
+      "genero": "Comédia",
+      "duracao": 114,
+      "classificacaoEtaria": 10,
+      "sinopse": "",
+      "urlTrailer": ""
+    }
+  ],
+  "salas": [],
+  "sessoes": [],
+  "clientes": [
+    {
+      "id": "da817e7e-966b-4edc-a122-e4199f5a8f39",
+      "nome": "Ana",
+      "email": "anacarolinefachini@gamil.com",
+      "dataNascimento": "2006-05-29",
+      "preferenciaGeneros": [],
+      "historicoFilmesIds": []
+    }
+  ],
+  "ingressos": [],
+  "usuarios": [
+    {
+      "id": "u",
+      "username": "admin",
+      "senha": "admin",
+      "role": "ADMIN"
+    }
+  ]
+}
